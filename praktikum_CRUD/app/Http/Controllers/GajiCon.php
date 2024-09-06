@@ -50,7 +50,7 @@ class GajiCon extends Controller
     {
         // update data golongan
         DB::table('tbgaji')->where('gaji_id',$request->id)->update([
-            // 'pegawai_id_gaji' => $request->pegawai_id_gaji,
+            // 'pegawai_id_gaji' => $request->p_id_gaji,
             'jumlah_gaji' => $request->j_gaji,
             'jumlah_lembur' => $request->j_lembur,
             'potongan' => $request->potong,

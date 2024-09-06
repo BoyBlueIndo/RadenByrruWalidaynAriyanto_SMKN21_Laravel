@@ -36,7 +36,7 @@
 
                 <div class="mb-3">
                     <label for="pegawai_id_gaji" class="form-label">ID</label>
-                    <input type="number" id="pegawai_id_gaji" name="pegawai_id_gaji" class="form-control" required="required">
+                    <input type="number" id="p_id_gaji" name="pegawai_id_gaji" class="form-control" required="required">
                 </div>
 
                 <div class="mb-3">

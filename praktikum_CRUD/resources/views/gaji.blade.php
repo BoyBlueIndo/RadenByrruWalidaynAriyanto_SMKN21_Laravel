@@ -20,7 +20,7 @@
     <div class="container">
         <h2 class="my-4">CRUD - READ</h2>
 
-        <a href="/gaji/tambah" class="btn btn-primary"> + Tambah Pegawai Baru</a>
+        <a href="/gaji/tambah" class="btn btn-primary"> + Tambah Gaji Baru</a>
 
         <br/>
         <br/>

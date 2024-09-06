@@ -23,7 +23,7 @@
                     <!-- Hidden Inputs for IDs -->
                     <input type="hidden" name="id" value="{{ $p->gaji_id }}">
                     <input type="hidden" name="pegawai_id" value="{{ $p->pegawai_id_gaji }}">
-
+                    
                     <!-- Jumlah Gaji Field -->
                     <div class="mb-3">
                         <label for="j_gaji" class="form-label">Jumlah Gaji</label>

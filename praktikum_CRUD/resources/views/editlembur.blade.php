@@ -21,6 +21,7 @@
                     {{ csrf_field() }}
 
                     <!-- Hidden Input for ID -->
+                    <input type="hidden" name="id" value="{{ $p->lembur_id }}">
                     <input type="hidden" name="pegawai_id_lembur" value="{{ $p->pegawai_id_lembur }}">
 
                     <!-- Bulan Lembur Field -->
